@@ -10,7 +10,7 @@ Papers
 
 - **System Aware Unlearning Algorithms: Use Lesser, Forget Faster**\
   *Linda Lu*, Ayush Sekhari, Karthik Sridharan.\
-  In Submission 2025.
+  International Conference on Machine Learning (ICML) 2025.
 
 - **From Toxicity in Online Comments to Incivility in American News: Proceed with Caution**\
   Anushree Hede, Oshin Agarwal, *Linda Lu*, Diana C. Mutz, Ani Nenkova.\
