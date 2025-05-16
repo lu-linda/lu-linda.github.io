@@ -12,6 +12,6 @@ I am a second-year PhD student in Computer Science at Cornell University. I am a
 Before joining Cornell, I received a B.S. in Computer Science and a B.S. in Economics from the University of Pennsylvania. I was a member of the [Jerome Fisher Management and Technology Program](https://fisher.wharton.upenn.edu/).
 
 # News
-- (May 2025) Our paper "System-Aware Unlearning Algorithms: Use Lesser, Forget Faster" is accepted to ICML 2025!
-- (September 2024) I am awarded the Bowers-CIS Linkedin Fellowship!
+- (May 2025) Our paper "System-Aware Unlearning Algorithms: Use Lesser, Forget Faster" has been accepted to ICML 2025!
+- (September 2024) I was awarded the Bowers-CIS Linkedin Fellowship!
 - (August 2023) I am starting my PhD at Cornell University!
