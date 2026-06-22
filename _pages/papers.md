@@ -5,7 +5,14 @@ permalink: /papers/
 author_profile: true
 ---
 
-Papers
+Preprints
+-----
+
+- **Predictability as a Fine-Grained Measure of Privacy**\
+  *Linda Lu*, Karthik Sridharan.\
+  [[arxiv]](https://arxiv.org/abs/2606.20546)
+
+Publications
 -----
 
 - **System Aware Unlearning Algorithms: Use Lesser, Forget Faster**\
